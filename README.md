@@ -128,19 +128,29 @@ Want to contribute? Amazing!
 
 ---
 
-## 📄 License
+## 🤝 Easy Way to Contribute
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
+Want to improve this project? It’s simple!
+
+### 📄 To edit the README file:
+
+1. Click on `README.md` in this repo.
+2. Click the ✏️ pencil icon (top-right) to edit.
+3. Make your changes — like adding new questions or fixing typos.
+4. Scroll down and click **"Propose changes"**.
+5. Then click **"Create pull request"**.
+
+That's it! 🎉
 
 ---
 
-## 📞 Connect & Support
+### 💡 What You Can Add
 
-Got feedback, new questions, or interview stories?
+- New screening questions & answers  
+- Tips or insights under each question  
+- Fix formatting, typos, or grammar  
 
-- **Issues**: open a discussion  
-- **PRs**: always welcome  
-- **YouTube / Blog**: [Your channel link]
+Thanks for making this project better! 🙌
 
 ---
 
