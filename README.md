@@ -1,6 +1,6 @@
 | title | description | githubPath |
 |-------|-------------|------------|
-| Screening Interview Questions & Answers 2025 - For All Roles | Prepare for your next screening round! This repo contains carefully selected questions for HR, behavioral, and general screening interviews. Perfect for freshers, professionals switching roles, and remote work seekers. | https://github.com/YOUR_USERNAME/Screening_interview_questions |
+| Screening Interview Questions & Answers 2025 - For All Roles | Prepare for your next screening round! This repo contains carefully selected questions for HR, behavioral, and general screening interviews. Perfect for freshers, professionals switching roles, and remote work seekers. | https://github.com/PavanRajugit/Screening_interview_questions |
 
 
 
