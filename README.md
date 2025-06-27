@@ -114,20 +114,6 @@ As for a weakness, I used to overcommit to multiple tasks. But I’ve learned to
 - If you can’t relocate, state that respectfully
 
 ---
-
-## 🤝 Contributing
-
-Want to contribute? Amazing!
-
-1. Fork the repo  
-2. Add a `.md` file in `/questions/` with:
-   - Question title  
-   - Model answer (200–300 words)  
-   - Insight bullet points  
-3. Submit a pull request — I’ll review ASAP!
-
----
-
 ## 🤝 Easy Way to Contribute
 
 Want to improve this project? It’s simple!
