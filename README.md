@@ -1,6 +1,6 @@
 # Screening Interview Questions & Answers 2025 💡
 
-Helping you ace the first round—whether it's HR screening, aptitude checks, or soft‑skills interviews.
+Helping you ace the first round—whether it's HR screening,soft‑skills interviews.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Contribute](https://img.shields.io/badge/Contribute-Welcome‑PRs-green.svg)](#contributing)
@@ -46,14 +46,7 @@ By practicing these, you’ll present confidently and organically—even when yo
 
 ---
 
-## 🗂️ How to Use This Repo
 
-1. Browse questions in `/questions/` (e.g. `01-tell-us-about-yourself.md`)  
-2. Read the curated answer and practice crafting your own  
-3. Open an Issue if you want a new question added  
-4. Review as your first‑round prep checklist  
-
----
 
 
 ### 📌 Question 1: Tell me about yourself
